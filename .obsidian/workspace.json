@@ -1,0 +1,226 @@
+{
+  "main": {
+    "id": "bd6e4c50d6d5802c",
+    "type": "split",
+    "children": [
+      {
+        "id": "6474ee7faaa32f74",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "04085a656ba7dc0c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tasks/respond to FID questions.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "respond to FID questions"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fd6e896d90c5711b",
+    "type": "split",
+    "children": [
+      {
+        "id": "446d70f2d654ca12",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c26a6e73c5865dd5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabeticalReverse",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "00b9465841bedb66",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "8ce644ab78584c2e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "6e1970dcd4903fc4",
+    "type": "split",
+    "children": [
+      {
+        "id": "90f6eee67ece2bcd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b239da0b3c8e70f5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Clients/Black Bayou Energy Hub.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Black Bayou Energy Hub"
+            }
+          },
+          {
+            "id": "8dbbaa5af8affd23",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Clients/Black Bayou Energy Hub.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Black Bayou Energy Hub"
+            }
+          },
+          {
+            "id": "54c861023c17c12d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "adfb29c5e3090548",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "d3340c2c5c9082c4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Clients/Black Bayou Energy Hub.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Black Bayou Energy Hub"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "04085a656ba7dc0c",
+  "lastOpenFiles": [
+    "README.md",
+    "Projects/1179 - Black Bayou/01 - Due Diligence and FID Support.md",
+    "Tasks/respond to FID questions.md",
+    "Home.md",
+    "Proposals/test prop.md",
+    "Clients/1179 - Black Bayou.md.tmp.3944.1769625479524",
+    "Templates/Client Template.md.tmp.3944.1769625441945",
+    "Templates/Client Template.md.tmp.3944.1769625421388",
+    "Home.md.tmp.3944.1769624571000",
+    "Home.md.tmp.3944.1769624411622",
+    "Templates/Archive Proposal.md",
+    "Templates/Archive Proposal.md.tmp.3944.1769624214196",
+    "Templates/Proposal Template.md",
+    "Archive/Proposals",
+    "Proposals",
+    "Archive/Projects/1179 - Black Bayou/02 - Geomech.md",
+    "Tasks/Solution Mining Update.md",
+    "Clients/1179 - Black Bayou.md",
+    "Archive/Tasks/Review Results.md",
+    "_archive_temp.md",
+    "Templates/New Task for Project.md.tmp.3944.1769620145653",
+    "Templates/Archive Task.md",
+    "Templates/Archive Task.md.tmp.3944.1769619924851",
+    "Archive/Projects/1179 - Black Bayou/01 - Due Diligence.md",
+    "Templates/Archive Project.md",
+    "_devLogs/2026-01-28.md",
+    "_devLogs/temp.md",
+    "Daily Notes/2026/01/2026-01-28.md",
+    "Templates/Daily Note.md",
+    "Tasks/Review KF Results.md",
+    "Projects/1179 - Black Bayou/01 - Geomech - null.md",
+    "Clients/BB - Black Bayou.md",
+    "Projects/BB - Black Bayou/01 - First Proj.md",
+    "Tasks/First Task.md",
+    "Clients/1179 - Black Bayou Energy Hub.md",
+    "Tasks/Respond to EQT Questions.md"
+  ]
+}
