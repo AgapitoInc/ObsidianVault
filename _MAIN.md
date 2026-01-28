@@ -82,7 +82,7 @@ TABLE WITHOUT ID
   file.link as "Proposal",
   client as "Client",
   status as "Status",
-  "$" + value as "Value",
+  choice(value, "$" + string(value), "") as "Value",
   due_date as "Due"
 FROM "Proposals"
 WHERE type = "proposal" AND status != "accepted" AND status != "rejected"

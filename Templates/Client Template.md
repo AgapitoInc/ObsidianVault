@@ -78,7 +78,7 @@ TABLE
   project_number as "Project #",
   project_name as "Name",
   status as "Status",
-  percent_complete + "%" as "Progress"
+  choice(percent_complete, string(percent_complete) + "%", "") as "Progress"
 FROM "Projects"
 WHERE type = "project" AND client.file.name = this.file.name
 SORT project_number DESC
@@ -90,10 +90,10 @@ SORT project_number DESC
 TABLE WITHOUT ID
   file.link as "Proposal",
   status as "Status",
-  "$" + value as "Value",
+  choice(value, "$" + string(value), "") as "Value",
   due_date as "Due"
 FROM "Proposals"
-WHERE type = "proposal" AND client.file.name = this.file.name
+WHERE type = "proposal" AND (client.file.name = this.file.name OR client = this.name)
 SORT due_date ASC
 ```
 

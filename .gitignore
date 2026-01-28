@@ -1,0 +1,11 @@
+ # User-specific Obsidian files
+ .obsidian/workspace.json
+ .obsidian/workspace-mobile.json
+ .obsidian/cache
+  
+# claude
+CLAUDE.md
+  
+ # OS files
+ .DS_Store
+ Thumbs.db

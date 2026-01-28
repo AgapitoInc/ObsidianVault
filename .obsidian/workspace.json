@@ -11,14 +11,10 @@
             "id": "04085a656ba7dc0c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tasks/respond to FID questions.md",
-                "mode": "preview",
-                "source": true
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "respond to FID questions"
+              "title": "New tab"
             }
           }
         ]
@@ -184,13 +180,21 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "04085a656ba7dc0c",
+  "active": "c26a6e73c5865dd5",
   "lastOpenFiles": [
-    "README.md",
-    "Projects/1179 - Black Bayou/01 - Due Diligence and FID Support.md",
     "Tasks/respond to FID questions.md",
-    "Home.md",
+    "Tasks/Solution Mining Update.md",
+    "Clients/1179 - Black Bayou.md",
+    "Projects/1179 - Black Bayou/01 - Due Diligence and FID Support.md",
+    "_MAIN.md",
+    "Proposals/Test.md",
     "Proposals/test prop.md",
+    "Templates/Client Template.md.tmp.28904.1769630489534",
+    "Clients/1179 - Black Bayou.md.tmp.28904.1769630284210",
+    "Home.md.tmp.28904.1769630210708",
+    "README.md",
+    "Home.md.tmp.28904.1769630144578",
+    "CLAUDE.md",
     "Clients/1179 - Black Bayou.md.tmp.3944.1769625479524",
     "Templates/Client Template.md.tmp.3944.1769625441945",
     "Templates/Client Template.md.tmp.3944.1769625421388",
@@ -199,16 +203,10 @@
     "Templates/Archive Proposal.md",
     "Templates/Archive Proposal.md.tmp.3944.1769624214196",
     "Templates/Proposal Template.md",
-    "Archive/Proposals",
-    "Proposals",
     "Archive/Projects/1179 - Black Bayou/02 - Geomech.md",
-    "Tasks/Solution Mining Update.md",
-    "Clients/1179 - Black Bayou.md",
     "Archive/Tasks/Review Results.md",
     "_archive_temp.md",
-    "Templates/New Task for Project.md.tmp.3944.1769620145653",
     "Templates/Archive Task.md",
-    "Templates/Archive Task.md.tmp.3944.1769619924851",
     "Archive/Projects/1179 - Black Bayou/01 - Due Diligence.md",
     "Templates/Archive Project.md",
     "_devLogs/2026-01-28.md",
@@ -219,8 +217,6 @@
     "Projects/1179 - Black Bayou/01 - Geomech - null.md",
     "Clients/BB - Black Bayou.md",
     "Projects/BB - Black Bayou/01 - First Proj.md",
-    "Tasks/First Task.md",
-    "Clients/1179 - Black Bayou Energy Hub.md",
-    "Tasks/Respond to EQT Questions.md"
+    "Tasks/First Task.md"
   ]
 }

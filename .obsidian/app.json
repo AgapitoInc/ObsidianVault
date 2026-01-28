@@ -1,1 +1,6 @@
-{}
+{
+  "userIgnoreFilters": [
+    "README.md",
+    "CLAUDE.md"
+  ]
+}
