@@ -1,0 +1,20 @@
+{
+  "daily": {
+    "enabled": true,
+    "format": "YYYY/MM/YYYY-MM-DD",
+    "folder": "DailyNote",
+    "template": "Templates/Daily Note.md"
+  },
+  "weekly": {
+    "enabled": false
+  },
+  "monthly": {
+    "enabled": false
+  },
+  "quarterly": {
+    "enabled": false
+  },
+  "yearly": {
+    "enabled": false
+  }
+}
