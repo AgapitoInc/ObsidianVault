@@ -80,7 +80,8 @@ TABLE WITHOUT ID
   file.link as "Proposal",
   client as "Client",
   choice(value, "$" + string(value), "") as "Value",
-  due_date as "Due"
+  due_date as "Due",
+  choice(submitted_date, "✓ " + string(submitted_date), "—") as "Submitted"
 FROM "Proposals"
 WHERE type = "proposal" AND status != "accepted" AND status != "rejected"
 SORT due_date ASC

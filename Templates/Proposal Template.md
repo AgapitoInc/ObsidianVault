@@ -69,6 +69,20 @@ created: <% tp.date.now("YYYY-MM-DD") %>
 ## Actions
 
 ```meta-bind-button
+label: "Mark as Submitted"
+style: primary
+actions:
+  - type: updateMetadata
+    bindTarget: submitted_date
+    evaluate: true
+    value: "new Date().toISOString().split('T')[0]"
+  - type: updateMetadata
+    bindTarget: status
+    evaluate: false
+    value: "submitted"
+```
+
+```meta-bind-button
 label: "Archive Proposal"
 style: destructive
 action:
